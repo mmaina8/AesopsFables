@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Aesops Fables</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_the_lionin_love">The Lion in Love</string>
+    <string name="title_activity_the_ass_brains">The Ass Brains</string>
+    <string name="title_activity_the_old_woman_and_the_wine_jar">The Old Woman and the Wine Jar</string>
+    <string name="title_activity_the_miserand_his_gold">The Miser and His Gold</string>
+    <string name="title_activity_the_doginthe_manger">The Dog in the Manger</string>
+    <string name="title_activity_the_old_manand_death">The Old Man and Death</string>
+    <string name="title_activity_the_bald_manandthe_fly">The Bald Man and the Fly</string>
+    <string name="title_activity_herculesandthe_waggoner">Hercules and the Waggoner</string>
+    <string name="title_activity_the_manand_his_two_wives">The Man and His Two Wives</string>
+    <string name="title_activity_the_labourerandthe_nightingale">The Labourer and the Nightingale
+    </string>
+    <string name="fable_1_text">A Lion once fell in love with a beautiful maiden and proposed marriage to her parents.\n\n
+
+The old people did not know what to say.\n \n
+
+They did not like to give their daughter to the Lion, yet they did not wish to enrage the King of Beasts.\n \n
+
+At last the father said:\n \n
+
+"We feel highly honoured by your Majesty's proposal, but you see our daughter is a tender young thing, and we fear that in the vehemence of your affection you might possibly do her some injury. Might I venture to suggest that your Majesty should have your claws removed, and your teeth extracted, then we would gladly consider your proposal again."\n \n
+
+The Lion was so much in love that he had his claws trimmed and his big teeth taken out.\n \n
+
+But when he came again to the parents of the young girl they simply laughed in his face, and bade him do his worst.</string>
+
+    <string name="fable_2_text">The Lion and the Fox went hunting together. \n \n
+
+The Lion, on the advice of the Fox, sent a message to the Ass, proposing to make an alliance between their two families. \n \n
+
+The Ass came to the place of meeting, overjoyed at the prospect of a royal alliance. \n \n
+
+But when he came there the Lion simply pounced on the Ass, and said to the Fox: \n \n
+
+"Here is our dinner for to-day. Watch you here while I go and have a nap. Woe betide you if you touch my prey."
+
+The Lion went away and the Fox waited; but finding that his master did not return, ventured to take out the brains of the Ass and ate them up.
+
+When the Lion came back he soon noticed the absence of the brains, and asked the Fox in a terrible voice: \n \n
+
+"What have you done with the brains?" \n \n
+
+"Brains, your Majesty! it had none, or it would never have fallen into your trap." \n \n
+
+ </string>
+
+    <string name="fable_3_text">You must know that sometimes old women like a glass of wine. \n \n
+
+One of this sort once found a Wine-jar lying in the road, and eagerly went up to it hoping to find it full. \n \n
+
+But when she took it up she found that all the wine had been drunk out of it. \n \n
+
+Still she took a long sniff at the mouth of the Jar. \n \n
+
+"Ah," she cried: "What memories cling 'round the instruments of our pleasure."</string>
+</resources>
+

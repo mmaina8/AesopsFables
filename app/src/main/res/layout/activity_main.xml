@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_margin="8dp"
+       >
+
+        <Button
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FABLE 1"
+            android:id="@+id/btnFable1"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FABLE 2"
+            android:id="@+id/btnFable2"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FABLE 3"
+            android:id="@+id/btnFable3"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FABLE 4"
+            android:id="@+id/btnFable4"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FABLE 5"
+            android:id="@+id/btnFable5"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FABLE 6"
+            android:id="@+id/btnFable6"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FABLE 7"
+            android:id="@+id/btnFable7"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FABLE 8"
+            android:id="@+id/btnFable8"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FABLE 9"
+            android:id="@+id/btnFable9"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FABLE 10"
+            android:id="@+id/btnFable10"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:background="@color/colorPrimary"/>
+
+    </LinearLayout>
+
+    </ScrollView>
+
+</android.support.design.widget.CoordinatorLayout>
